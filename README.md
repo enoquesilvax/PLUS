@@ -27,6 +27,12 @@
 
 # SSH PLUS 2023 INSTALAÇÃO
 
+# Como Instalar!
+
+````
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
+````
+
 ```
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
 
