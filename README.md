@@ -34,7 +34,7 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PL
 ````
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
+bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/ssh-plus)
 
 ```
 
