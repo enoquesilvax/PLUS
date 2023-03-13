@@ -16,6 +16,7 @@
 
 ✅ TCPTWEAKER
 
+✅ MEMÓRIA SWAP
 
 ## :heavy_exclamation_mark: requisitos
 * Um sistema operacional baseado em Linux (Ubuntu ou Debian)
@@ -47,7 +48,7 @@ wget https://raw.githubusercontent.com/PhoenixxZ2023/PLUS/main/script/64/ssh-plu
 ````
 
 
-# BOT ZAP 😝![icons8-whatsapp-48](https://user-images.githubusercontent.com/101994539/224822427-60c31ec9-ad6e-4e94-90f6-34f65aedb080.png)
+# BOT ZAP 😝 ![icons8-whatsapp-48](https://user-images.githubusercontent.com/101994539/224822427-60c31ec9-ad6e-4e94-90f6-34f65aedb080.png)
 
 
 ```
