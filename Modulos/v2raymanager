@@ -490,8 +490,7 @@ echo "App: https://apps.apple.com/br/app/fair-vpn/id1533873488"
 		while true $x != "ok"; do
 			[[ ! -e '/home/sshplus' ]] && exit 0
 			clear
-			figlet "V2Ray-PRO" | lolcat
-tput setaf 7 ; tput setab 4 ; tput bold ; printf '%55s%s%-12s\n' "V2RAY PRO @SCOTTSSH " ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%55s%s%-12s\n' "V2RAY PRO SSH-PLUS " ; tput sgr0
 echo ""
 echo "Para Ativar o (V2RAY) é obrigatório que portas 80 e 443 estejam DESATIVADAS"
 echo "" 
@@ -507,7 +506,6 @@ echo ""
 			echo -e "\033[1;31m○ "
 			fi`;          
 			echo -e "╔═════════════════════•⊱✦⊰•═════════════════════╗" | lolcat
-			echo ""
 echo -e "\033[1;31m[\033[1;36m01\033[1;31m] \033[1;37m• \033[1;33mCRIAR USUARIO V2RAY\033[1;31m
 [\033[1;36m02\033[1;31m] \033[1;37m• \033[1;33mREMOVER USUARIO \033[1;31m
 [\033[1;36m03\033[1;31m] \033[1;37m• \033[1;33mMOSTAR USUARIOS CADASTRADO\033[1;31m
@@ -525,7 +523,6 @@ echo -e "\033[1;31m[\033[1;36m01\033[1;31m] \033[1;37m• \033[1;33mCRIAR USUARI
 			echo ""
 			echo -e "╚═════════════════════•⊱✦⊰•═════════════════════╝" | lolcat
 			echo ""
-			tput civis
 			echo -ne "\033[1;32mESCOLHA UMA OPÇÃO \033[1;33m»\033[1;31m\033[1;37m "
 			read x
 			tput cnorm
