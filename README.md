@@ -19,6 +19,8 @@
 
 ✅ MEMÓRIA SWAP
 
+✅ FIREWALL ORACLE
+
 ## :heavy_exclamation_mark: requisitos
 * Um sistema operacional baseado em Linux (Ubuntu ou Debian)
 * Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
