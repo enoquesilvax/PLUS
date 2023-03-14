@@ -1,5 +1,4 @@
 # SSH-PLUS ⚡
-![224824027-78a898cb-2725-4820-861c-909b298fc521](https://user-images.githubusercontent.com/101994539/224827753-8c86d396-fb22-4702-862b-d1f88ae04a78.jpg)
 
 
 # @TURBONETVPN2023
