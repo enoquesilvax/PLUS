@@ -25,7 +25,7 @@
             bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/CheckUser/master/install.sh)
             ;;
 	    4 | 04)
-            bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/checkany/main/install.sh)
+            bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/checkany/main/install.sh) && chany
             ;;
 			0 | 00)
 			clear
